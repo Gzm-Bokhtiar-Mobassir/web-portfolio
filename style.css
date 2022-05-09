@@ -1,0 +1,13 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    /* font-family: 'Macondo', cursive; */
+    font-size: 50px;
+}
+.Name-Highlight{
+    color: orange;
+}
+.headline_1{
+    font-weight: bolder;
+}
