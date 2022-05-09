@@ -10,4 +10,14 @@ h1{
 }
 .headline_1{
     font-weight: bolder;
+    color: black;
+}
+.First-width{
+    float: left;
+    width: 40%;
+    margin: 5%;
+    padding: 2% 0%;
+}
+.First-width img{
+    width: 100%;
 }
